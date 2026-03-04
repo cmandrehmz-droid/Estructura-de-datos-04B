@@ -1,6 +1,9 @@
 import java.util.concurrent.ThreadLocalRandom;
 public class ejercicio_6 {
-    
+    //Ejercicio 6 — Turno en un banco
+    //Un cajero de banco trabaja con el número del turno actual. Se crea una variable turnoActual y se asigna a turnoEnPantalla.
+    //Demuestra con código que cambiar turnoEnPantalla no afecta a turnoActual (comportamiento por valor).
+    //Explica en un comentario por qué ocurre esto.
     public static void main(String[] args) {
         int Turno;
         int TurnoMax = 100;
