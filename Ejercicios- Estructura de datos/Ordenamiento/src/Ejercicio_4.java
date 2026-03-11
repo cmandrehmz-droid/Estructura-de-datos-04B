@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Ejercicio_9 {
+public class Ejercicio_4 {
     /* 4. Registro Alfabético de Estudiantes
     Algoritmo obligatorio: Ordenamiento por Inserción (Insertion Sort)
     Contexto: El profesor necesita pasar asistencia y requiere que la lista de nombres ingresada en el sistema se ordene alfabéticamente de la A a la Z.

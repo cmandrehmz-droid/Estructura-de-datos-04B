@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Ejercicio_7 {
+public class Ejercicio_2 {
       /* 2. Organización de Biblioteca Dinámica
         Algoritmo obligatorio: Ordenamiento por Inserción (Insertion Sort)
         Contexto: Un bibliotecario recibe una caja de libros y los va colocando uno a uno en el estante en su posición correcta.

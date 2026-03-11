@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Ejercicio_6 {
+public class Ejercicio_1 {
    /* 1. El Podio de la Competencia
     Algoritmo obligatorio: Ordenamiento por Selección (Selection Sort)
 

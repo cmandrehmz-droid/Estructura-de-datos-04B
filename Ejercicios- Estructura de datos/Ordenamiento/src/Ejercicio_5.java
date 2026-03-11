@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Ejercicio_10 {
+public class Ejercicio_5 {
     /* 5. El Inspector de Eficiencia (Duelo de Métodos)
     Algoritmos obligatorios: Selección vs Inserción
     Contexto: Un analista de sistemas quiere saber cuál algoritmo es más "pesado" en términos de operaciones para un caso específico.

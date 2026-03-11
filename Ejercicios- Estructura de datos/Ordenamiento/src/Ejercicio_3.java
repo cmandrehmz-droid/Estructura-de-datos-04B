@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Ejercicio_8 {
+public class Ejercicio_3 {
     /* 3. El Salto de Shell (Optimización de Datos)
     Algoritmo obligatorio: Ordenamiento Shell (Shell Sort)
     Contexto: Una empresa de logística maneja paquetes con diferentes pesos y 
